@@ -2,6 +2,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lan-tianxiang&show_icons=true&theme=radical&repo=jd_shell)](https://github.com/lan-tianxiang/jd_shell)
 -->
 
+
 ### 新版本加入账号验证机制，请即将使用新版本的用户加QQ群967451175，添加授权
 
 <p align="center">
